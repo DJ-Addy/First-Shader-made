@@ -1,4 +1,4 @@
-//Open GLSL Code(open in visual studio)
+//Open GLSL Code(open in Shadertoy for best use)
 
 vec3 palette( float t ) {
     vec3 a = vec3(0.5, 0.5, 0.5);
